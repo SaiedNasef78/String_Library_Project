@@ -106,8 +106,8 @@ which was the primary source of learning how to build this system step by step.
 
 
 ## الكود
-- [StringLibrary.h](./String%20Library%20Project/clsString.h)
-- [main.cpp](./String%20Library%20Project/main.cpp)
+- [main.cpp]( Course%2010%20OOP%20%20String%20Project%20Libarriray.cpp)
+- [clsString.h](./String%20Library%20Project/main.cpp)
 --- 
 
 ## ملاحظات المطور
