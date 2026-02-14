@@ -1,0 +1,28 @@
+﻿  Course 10 OOP  String Project Libarriray.cpp
+C:\Users\SH\source\repos\Course 10 OOP  String Project Libarriray\Course 10 OOP  String Project Libarriray\clsString.h(35,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course%2010%20OOP%20%20String%20Project%20Libarriray.cpp')
+  
+C:\Users\SH\source\repos\Course 10 OOP  String Project Libarriray\Course 10 OOP  String Project Libarriray\clsString.h(175,19): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course%2010%20OOP%20%20String%20Project%20Libarriray.cpp')
+  
+C:\Users\SH\source\repos\Course 10 OOP  String Project Libarriray\Course 10 OOP  String Project Libarriray\clsString.h(327,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course%2010%20OOP%20%20String%20Project%20Libarriray.cpp')
+  
+C:\Users\SH\source\repos\Course 10 OOP  String Project Libarriray\Course 10 OOP  String Project Libarriray\clsString.h(359,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course%2010%20OOP%20%20String%20Project%20Libarriray.cpp')
+  
+C:\Users\SH\source\repos\Course 10 OOP  String Project Libarriray\Course 10 OOP  String Project Libarriray\clsString.h(414,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Course%2010%20OOP%20%20String%20Project%20Libarriray.cpp')
+  
+C:\Users\SH\source\repos\Course 10 OOP  String Project Libarriray\Course 10 OOP  String Project Libarriray\clsString.h(435,17): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course%2010%20OOP%20%20String%20Project%20Libarriray.cpp')
+  
+C:\Users\SH\source\repos\Course 10 OOP  String Project Libarriray\Course 10 OOP  String Project Libarriray\clsString.h(487,12): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course%2010%20OOP%20%20String%20Project%20Libarriray.cpp')
+  
+C:\Users\SH\source\repos\Course 10 OOP  String Project Libarriray\Course 10 OOP  String Project Libarriray\clsString.h(493,15): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Course%2010%20OOP%20%20String%20Project%20Libarriray.cpp')
+  
+C:\Users\SH\source\repos\Course 10 OOP  String Project Libarriray\Course 10 OOP  String Project Libarriray\clsString.h(408,1): warning C4715: 'clsString::TrimLift': not all control paths return a value
+C:\Users\SH\source\repos\Course 10 OOP  String Project Libarriray\Course 10 OOP  String Project Libarriray\clsString.h(429,1): warning C4715: 'clsString::TrimRight': not all control paths return a value
+  Course 10 OOP  String Project Libarriray.vcxproj -> C:\Users\SH\source\repos\Course 10 OOP  String Project Libarriray\x64\Debug\Course 10 OOP  String Project Libarriray.exe
