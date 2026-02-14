@@ -65,8 +65,8 @@ This project is more than just a utility library; it is a practical application 
 ---
 
 ## Source Code
-- [StringLibrary.h](./String%20Library%20Project/clsString.h)
-- [main.cpp](./String%20Library%20Project/main.cpp)
+- [Main.cpp](./Course_10_OOP_String_Project_Libarriray/Course_10_OOP%20_String_Project_Libarriray/Course%2010%20OOP%20%20String%20Project%20Libarriray.cpp)
+- [clsString.h](./Course_10_OOP_String_Project_Libarriray/Course_10_OOP%20_String_Project_Libarriray/clsString.h)
 --- 
 
 ## Developer's Notes
@@ -107,7 +107,7 @@ which was the primary source of learning how to build this system step by step.
 
 ## الكود
 - [Main.cpp](./Course_10_OOP_String_Project_Libarriray/Course_10_OOP%20_String_Project_Libarriray/Course%2010%20OOP%20%20String%20Project%20Libarriray.cpp)
-- [clsString.h](./String%20Library%20Project/main.cpp)
+- [clsString.h](./Course_10_OOP_String_Project_Libarriray/Course_10_OOP%20_String_Project_Libarriray/clsString.h)
 --- 
 
 ## ملاحظات المطور
